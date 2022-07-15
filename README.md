@@ -1,4 +1,5 @@
 nihao
+wohao
 
 <!---
 LJL-666/LJL-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
